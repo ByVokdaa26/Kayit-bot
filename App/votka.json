@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["585031317436104714","815254068683079701","815254092715655188"],
+        "ACTIVITY_TEXT": "Ses Sistemi yaptırmak için İnstagram: Byvodka.26",
+        "GUILD_ID": "815210820321280041",
+        "VOICE_CHANNEL": "815315585457717268",
+        "MIN_STAFF_ROLE": "815254062642888715"
+    },
+    "FILES": {
+        "WELCOME": "ses/hosgeldin.mp3",
+        "STAFF": "ses/yetkili.mp3"
+    },
+    "TOKEN": ""
+} 
